@@ -524,3 +524,4 @@ async function setup() {
 }
 
 setup();
+module.exports = setup;
